@@ -1,0 +1,46 @@
+body {
+	font-family: "specialFont";
+    font-family: 'Carrois Gothic', sans-serif;
+    font-family: 'Racing Sans One', cursive;
+    font-family: 'Mandali', sans-serif;
+    background-color: Grey;
+}
+
+div {
+    width: 1000px;
+    border: 25px solid black;
+    padding:25px;
+    margin: auto;
+}
+
+a {
+    color:Black
+}
+
+.contact {
+	background-color: lightgrey;
+}
+
+.center {
+	text-align: center;
+}
+
+.button {
+    background-color: Blue;
+    border: groove;
+    color: Black;
+    padding: 10px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+	font-family: 'Racing Sans One', cursive;
+
+}
+
+.button:hover {
+    background-color: Yellow;
+}
